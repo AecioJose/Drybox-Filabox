@@ -1,0 +1,2 @@
+O site utilizado para converter png em bit foi o
+https://javl.github.io/image2cpp/
